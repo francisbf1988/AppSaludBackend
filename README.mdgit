@@ -1,0 +1,1 @@
+"# SARPEC_SmartApp"  initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin git@github.com:arielespinosa/SARPEC_SmartApp.gitgit push -u origin main
